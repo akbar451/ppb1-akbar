@@ -1,15 +1,4 @@
 void main() {
-  // string nilai = "A";
-  // switch (nilai) {
-  //   case "A";
-  //   print("sangat baik");
-  //   case "B";
-  //   print("baik");
-  //   case "C";
-  //   print("cukup");
-  //   default:
-  //   print("nilai tidak valid");
-  // }
   int harike = 7;
   switch (harike) {
     case 1:
